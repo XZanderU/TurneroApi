@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VQtvtAWZHF35iWvAkqKE5CKyc2gTbXKbQMUCOALpCGg=",
+  "Source": "TurneroApi",
+  "BasePath": "_content/TurneroApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

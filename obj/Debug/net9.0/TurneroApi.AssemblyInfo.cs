@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurneroApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15764196ba00fa3da3a99fa389dedefa69d5eaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurneroApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurneroApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
